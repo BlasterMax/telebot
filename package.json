@@ -1,0 +1,17 @@
+{
+  "name": "SimpleTeleBot",
+  "version": "1.0.0",
+  "description": "Sexy El Que Lo Lea 7w7 ",
+  "main": "nkbot.js",
+  "scripts": {
+    "start": "node nkbot.js"
+  },
+  "keywords": [],
+  "author": "Matt_M",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "telegraf": "^4.4.2",
+    "chalk": "^4.1.2"
+  }
+}
